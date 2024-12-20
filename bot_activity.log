@@ -1,0 +1,11 @@
+2024-12-20 13:43:17,506 - INFO - Logged in as PTCG Pocket News#2733
+2024-12-20 13:43:17,942 - INFO - Slash commands synced.
+2024-12-20 13:43:17,942 - INFO - Starting background task to check for new articles...
+2024-12-20 13:43:17,942 - INFO - Checking for new articles...
+2024-12-20 13:43:18,084 - INFO - Fetched 20 articles from https://www.pokemon-zone.com/articles/.
+2024-12-20 13:43:18,302 - INFO - Fetched 17 articles from https://www.pokemon-zone.com/events/.
+2024-12-20 13:43:18,303 - INFO - No new articles found.
+2024-12-20 13:43:30,622 - INFO - Slash command /pocketnews triggered.
+2024-12-20 13:43:31,179 - INFO - Fetched 20 articles from https://www.pokemon-zone.com/articles/.
+2024-12-20 13:43:31,342 - INFO - Fetched 17 articles from https://www.pokemon-zone.com/events/.
+2024-12-20 13:43:31,752 - INFO - No new articles found via slash command.
