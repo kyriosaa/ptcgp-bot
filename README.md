@@ -1,15 +1,13 @@
 # PTCG Pocket News Bot
 
-**Description**
+## About
 
-A simple Discord bot that scrapes the web for news relating to Pokemon TCG Pocket and posts them to a channel.
+- A simple Discord bot that scrapes the web for news relating to Pokemon TCG Pocket and posts them to a channel.
+- Code written in Python and hosted on a personal Linux system
 
-**Features**
+## Features
 
-- Automatic news updates
-- Manual update checks using the **/pocketnews** command
-- Activity logging
-
-Written in Python and hosted on a personal Linux system
-
-Created by Purit Hongjirakul
+- **Automatic Updates -** Checks for updates every hour and automatically posts new articles to a discord channel.
+- **Slash Commands -** Manual update checks using the **/pocketnews** command.
+- **Custom Embed -** Takes the article title, image, and first paragraph to create an embed link that is easy to read and understand.
+- **Activity Logging -** Logs every interaction to a local text file.
