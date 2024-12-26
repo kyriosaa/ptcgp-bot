@@ -3,7 +3,8 @@
 ## About
 
 - A simple Discord bot that scrapes the web for news relating to Pokemon TCG Pocket and posts them to a channel.
-- Code written in Python and hosted on a personal Linux system
+- Python
+- Bot hosted on personal Linux system
 
 ## Features
 
